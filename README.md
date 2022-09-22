@@ -1,4 +1,4 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=steveanthony999&theme=radical)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=steveanthony999&theme=radical)](https://git.io/streak-stats)</p>
 
 ### Hi there 👋
 
