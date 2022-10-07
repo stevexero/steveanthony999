@@ -3,7 +3,7 @@
 <hr />
 
 - 🔭 I’m currently working on <a href="http://www.streetko.de/?from=@">StreetKode</a> - an online community / marketplace for streetwear designers and collectors.
-- 🌱 I’m currently learning C++ and SQL.
+- 🌱 I’m currently learning C++ and SQL on the side while continuing to focus on React, Node, and MongoDB.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with employment.
 - 💬 Ask me about anything you'd like!
