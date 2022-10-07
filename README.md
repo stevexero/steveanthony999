@@ -2,7 +2,7 @@
 
 <hr />
 
-- 🔭 I’m currently working on <a href="http://streetko.de" target="_blank">StreetKode</a> - an online community / marketplace for streetwear designers and collectors.
+- 🔭 I’m currently working on <a href="http://www.streetko.de/?from=@">StreetKode</a> - an online community / marketplace for streetwear designers and collectors.
 - 🌱 I’m currently learning C++ and SQL.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with employment.
