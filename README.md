@@ -3,7 +3,7 @@
 ### Hi there 👋 I'm Steve!
 
 - 🔭 I’m currently working on StreetKode - an online community / marketplace for streetwear designers and collectors.
-- 🌱 I’m currently learning C++ for fun.
+- 🌱 I’m currently learning C++ and SQL.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with employment.
 - 💬 Ask me about anything you'd like!
