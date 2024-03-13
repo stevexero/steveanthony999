@@ -13,13 +13,13 @@
 <hr />
 
 <p align="center">
-  <img width="460" src="https://github-readme-streak-stats.herokuapp.com?user=steveanthony999&theme=radical&repo=github-readme-stats">
+  <img width="460" src="https://github-readme-streak-stats.herokuapp.com?user=stevexero&theme=radical&repo=github-readme-stats">
 </p>
 
 <p align="center">
-  <img width="460" src="https://github-readme-stats.vercel.app/api?username=steveanthony999&theme=radical">
+  <img width="460" src="https://github-readme-stats.vercel.app/api?username=stevexero&theme=radical">
 </p>
 
 <p align="center">
-  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steveanthony999&&theme=radical&layout=compact">
+  <img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevexero&&theme=radical&layout=compact">
 </p>
