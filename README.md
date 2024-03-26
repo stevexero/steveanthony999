@@ -2,12 +2,12 @@
 
 <hr />
 
-- 🔭 I’m currently working on <a href="http://www.streetko.de/?from=@">StreetKode</a> - an online community / marketplace for streetwear designers and collectors.
-- 🌱 I’m currently learning C++ and SQL on the side while continuing to focus on React, Node, and MongoDB.
+- 🔭 I’m currently working on <a href="http://www.frontendmentor.io/">Frontend Mentor</a> projects and dialing in my HTML, CSS, and accessibility skills.
+- 🌱 I’m currently learning Semantic HTML, accessibility, Tailwind, and Python (in school) while continuing to focus on React, Node, and MongoDB.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with employment.
 - 💬 Ask me about anything you'd like!
-- 📫 How to reach me: twitter: @codrsteve
+- 📫 How to reach me: twitter: @steve_xero
 - ⚡ Fun fact: I've always been an artist, mostly oil painting, and owned and operated my own gallery in Las Vegas.
 
 <hr />
